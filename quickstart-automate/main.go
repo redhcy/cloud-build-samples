@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, universe!")
+  fmt.Println("Hello, welcome to hcy_AutoBuild_piple!")
 }
